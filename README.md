@@ -1,21 +1,8 @@
 <div align="center">
   <h1>Hi 👋, I'm Sudhir R</h1>
-  <table>
-    <tr>
-      <td>
-        <h3>Computer Science Engineering student (2022–2026)<br>
-        💻 Passionate about building scalable full-stack applications and diving deep into backend technologies.</h3>
-      </td>
-      <td>
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEyMzR6OTk1c3NndmZiMTJ6bmRiOXNuN2M1cDRibmFieXI0NXNidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l50NecAmiy7Nz9rPgf/giphy.gif" width="150" />
-      </td>
-    </tr>
-  </table>
+  <h3>Passionate about building scalable full-stack applications and diving deep into backend technologies.</h3>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEyMzR6OTk1c3NndmZiMTJ6bmRiOXNuN2M1cDRibmFieXI0NXNidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l50NecAmiy7Nz9rPgf/giphy.gif" width="150" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudhir0302&label=Profile%20views&color=0e75b6&style=flat" alt="sudhir0302" />
-</p>
 
 ---
 
@@ -43,8 +30,8 @@
   <a href="https://leetcode.com/u/Sudhir03/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"    />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/sudhirp9lrx/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  <a href="https://dev.to/sudhir03" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dev_to_logo.svg/800px-Dev_to_logo.svg.png" alt="Dev.to" height="30" width="40" />
   </a>
   <a href="https://www.reddit.com/user/Imaginary_Sample_929/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" height="30" width="40" />
