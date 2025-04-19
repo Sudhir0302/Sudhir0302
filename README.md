@@ -1,26 +1,28 @@
 <div align="center">
   <h1>Hi 👋, I'm Sudhir R</h1>
-  <h3>Passionate about building scalable full-stack applications and diving deep into backend technologies.</h3>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEyMzR6OTk1c3NndmZiMTJ6bmRiOXNuN2M1cDRibmFieXI0NXNidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l50NecAmiy7Nz9rPgf/giphy.gif" width="150" />
+  <h3>A Passionate Software Engineer</h3>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEyMzR6OTk1c3NndmZiMTJ6bmRiOXNuN2M1cDRibmFieXI0NXNidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l50NecAmiy7Nz9rPgf/giphy.gif" width="250" height="170" align="right" />
 </div>
 
----
 
-- 🌱 I’m currently learning **FullStack Develpment, DSA**
-- 💬 Ask me about **React, Java, Spring Boot, DSA**
-- 📫 Reach me at **sudhirpld2020@gmail.com**
+<div>
+ 🌱 I’m currently learning FullStack Develpment, DSA<br><br>
+  
+ 💬 Ask me about React, Java, Spring Boot, DSA<br>
 
----
+ 📫 Reach me at **sudhirpld2020@gmail.com**<br>
+</div>
 
-### 🧠 Featured Projects
+<br>
+<hr>
+<h3>Featured Projects:</h3>
 
 - 📚 [BookStore](https://github.com/Sudhir0302/BookStore) — MERN stack bookstore management system.
 - 🔐 [2-Factor Auth API](https://github.com/Sudhir0302/Spring_security) — Spring Boot REST API with JWT & Google TOTP.
 - 🌾 [AgroMart](https://github.com/Sudhir0302/AgroMart) — E-commerce platform with secure login (JWT).
 
----
-
-### 🌐 Connect with me
+<hr>
+<h3>Connect with me:</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/sudhir-rakkiappan" target="_blank">
@@ -31,16 +33,15 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"    />
   </a>
   <a href="https://dev.to/sudhir03" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dev_to_logo.svg/800px-Dev_to_logo.svg.png" alt="Dev.to" height="30" width="40" />
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="Dev.to" height="30" width="40" />
   </a>
   <a href="https://www.reddit.com/user/Imaginary_Sample_929/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" height="30" width="40" />
   </a>
 </p>
 
----
-
-### 🛠️ Languages and Tools
+<hr>
+<h3>Languages and Tools:</h3>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -60,9 +61,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
 
-### 📊 GitHub Stats
+<hr>
+<h3>GitHub Stats:</h3>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhir0302&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
@@ -75,7 +76,8 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhir0302" alt="GitHub Streak" />
 </p>
+<br><br>
+<p align="center" style="font-family: 'Arial'">
+  “Strive for progress, not perfection.”
+</p>
 
----
-
-> *“Strive for progress, not perfection.”*
