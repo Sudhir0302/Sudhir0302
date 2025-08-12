@@ -21,7 +21,7 @@
 - 🔐 [2-Factor Auth API](https://github.com/Sudhir0302/Spring_security) — Spring Boot REST API with JWT & Google TOTP.
 - 🔀 [ProxyCloud](https://github.com/Sudhir0302/ProxyCloud) — A simple REST API which acts a reverse proxy to send and receive req ,res from external APIs.
       Link : https://proxycloud-xzob.onrender.com
-- 🌾 [AgroMart](https://github.com/Sudhir0302/AgroMart) — E-commerce platform with secure login (JWT).
+- 🛡️ [**Secure Vault**](https://github.com/Sudhir0302/secure_vault) — A secure file storage & sharing system with encryption.
 
 <hr>
 <h3>Connect with me:</h3>
@@ -48,6 +48,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="70" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" width="40" height="40"/>
